@@ -7,12 +7,24 @@
       "discount": 10,
       "introduction": "A dish that's fallen out of favour and then become popular again more times than we can count, beef Wellington's origins are as unclear as its connection to Arthur Wellesley, 1st Duke of Wellington. Traditionally, it's a beef fillet steak, coated in pâté and mushroom duxelles (an extremely finely chopped mixture of mushrooms, shallots and herbs), wrapped in puff pastry, then baked. Its modern-day popularity is largely thanks to Gordon Ramsay who's made it one of his signature dishes.",
       "details": [
-        { "Cuisine": "British" },
-        { "Recipe Type": "Beef" },
-        { "Difficulty": "Medium" },
-        { "Preparation Time": "50 mins" },
-        { "Cooking Time": "45 mins" },
-        { "Serves": "8" }
+        {
+          "Cuisine": "British"
+        },
+        {
+          "Recipe Type": "Beef"
+        },
+        {
+          "Difficulty": "Medium"
+        },
+        {
+          "Preparation Time": "50 mins"
+        },
+        {
+          "Cooking Time": "45 mins"
+        },
+        {
+          "Serves": "8"
+        }
       ],
       "ingredients": [
         "1.5 kg beef fillet, trimmed and tied",
@@ -36,15 +48,27 @@
       "id": 2,
       "name": "Peking duck",
       "price": 8,
-      "discount": 0,
+      "discount": 15,
       "introduction": "A dish cooked and eaten in Beijing since the Imperial era, today Peking duck is a Chinese restaurant favourite across the world. There are countless methods of preparing and cooking the duck, but originally it was roasted in a closed oven until the kitchens of the Qing Dynasty developed the open-oven style to cook several ducks at the same time. The duck is then served with steamed Chinese pancakes, cucumber, spring onion and sweet bean sauce.",
       "details": [
-        { "Cuisine": "Chinese" },
-        { "Recipe Type": "Duck" },
-        { "Difficulty": "Easy" },
-        { "Preparation Time": "10 mins" },
-        { "Cooking Time": "60 mins" },
-        { "Serves": "2" }
+        {
+          "Cuisine": "Chinese"
+        },
+        {
+          "Recipe Type": "Duck"
+        },
+        {
+          "Difficulty": "Easy"
+        },
+        {
+          "Preparation Time": "10 mins"
+        },
+        {
+          "Cooking Time": "60 mins"
+        },
+        {
+          "Serves": "2"
+        }
       ],
       "ingredients": [
         "2 duck legs, around 450g/6oz (we like field&flower)",
@@ -69,12 +93,24 @@
       "discount": 0,
       "introduction": "Claimed as one of their own throughout North Africa and the Middle East, untangling the web of where shakshuka is from is simply impossible. All we know is that it's an incredibly tasty and filling dish that's become a popular breakfast and brunch meal throughout the world. Literally translating as a mixture, it's usually cooked by reducing down tomatoes, onions and a range of spices before the eggs are poached on top.",
       "details": [
-        { "Cuisine": "Middle Eastern" },
-        { "Recipe Type": "Eggs" },
-        { "Difficulty": "Easy" },
-        { "Preparation Time": "20 mins" },
-        { "Cooking Time": "5 mins" },
-        { "Serves": "6" }
+        {
+          "Cuisine": "Middle Eastern"
+        },
+        {
+          "Recipe Type": "Eggs"
+        },
+        {
+          "Difficulty": "Easy"
+        },
+        {
+          "Preparation Time": "20 mins"
+        },
+        {
+          "Cooking Time": "5 mins"
+        },
+        {
+          "Serves": "6"
+        }
       ],
       "ingredients": [
         "0.5 tsp salt",
@@ -108,12 +144,24 @@
       "discount": 0,
       "introduction": "A spicy, sweet, sour and fragrant soup from Southeast Asia, laksa is mostly associated with Malaysia. The origins are murky with several theories in different countries and a wide range of laksa exist, from regional varieties to differences in preparation. Typically, either a rich and spicy coconut milk broth or a sour asam broth made with tamarind, the soup is made with thick wheat noodles or rice vermicelli and served with chicken, prawn or fish.",
       "details": [
-        { "Cuisine": "Malaysian" },
-        { "Recipe Type": "Soup" },
-        { "Difficulty": "Easy" },
-        { "Preparation Time": "5 mins" },
-        { "Cooking Time": "10 mins" },
-        { "Serves": "2" }
+        {
+          "Cuisine": "Malaysian"
+        },
+        {
+          "Recipe Type": "Soup"
+        },
+        {
+          "Difficulty": "Easy"
+        },
+        {
+          "Preparation Time": "5 mins"
+        },
+        {
+          "Cooking Time": "10 mins"
+        },
+        {
+          "Serves": "2"
+        }
       ],
       "ingredients": [
         "1 tbsp olive oil",
@@ -144,12 +192,24 @@
       "discount": 0,
       "introduction": "Creamy clam chowder is Massachusetts' finest dish that's prevalent throughout New England. Made with potatoes, crushed oyster crackers and chunks of local clam, it’s a flavourful and hearty dish to have all year long. The most famous place to eat it, Legal Sea Foods in Boston, began life as a market frequented by Julia Child and has been cooking up perfect chowder for decades. ",
       "details": [
-        { "Cuisine": "American" },
-        { "Recipe Type": "Soup" },
-        { "Difficulty": "Hard" },
-        { "Preparation Time": "10 mins" },
-        { "Cooking Time": "30 mins" },
-        { "Serves": "4" }
+        {
+          "Cuisine": "American"
+        },
+        {
+          "Recipe Type": "Soup"
+        },
+        {
+          "Difficulty": "Hard"
+        },
+        {
+          "Preparation Time": "10 mins"
+        },
+        {
+          "Cooking Time": "30 mins"
+        },
+        {
+          "Serves": "4"
+        }
       ],
       "ingredients": [
         "4 slices thick-cut bacon, cut into lardons",
@@ -178,12 +238,24 @@
       "discount": 0,
       "introduction": "A Japanese noodle soup, ramen has grown in popularity outside of Japan in the last decade and it's easy to see why. In its simple form, it's a rich meat (or occasionally fish) broth, flavoured with soy or miso and served with toppings such as mushrooms, seaweed, sesame seeds, spring onions and soft-boiled egg. As with most dishes, there are regional varieties too, including the most popular tonkotsu (pork bone broth) ramen of Kyushu and the miso ramen of Hokkaido.",
       "details": [
-        { "Cuisine": "Japanese" },
-        { "Recipe Type": "Ramen" },
-        { "Difficulty": "Hard" },
-        { "Preparation Time": "5 mins" },
-        { "Cooking Time": "10 mins" },
-        { "Serves": "1" }
+        {
+          "Cuisine": "Japanese"
+        },
+        {
+          "Recipe Type": "Ramen"
+        },
+        {
+          "Difficulty": "Hard"
+        },
+        {
+          "Preparation Time": "5 mins"
+        },
+        {
+          "Cooking Time": "10 mins"
+        },
+        {
+          "Serves": "1"
+        }
       ],
       "ingredients": [
         "150 g packet miso ramen noodles (or plain noodles)",
@@ -211,12 +283,24 @@
       "discount": 0,
       "introduction": "There are countless divine Italian pasta recipes, but this one is genius in its simplicity. Translating as cheese and pepper, the dish, as its name suggests, uses a handful of basic ingredients: black pepper, cheese, pasta and butter. You'll find versions made with either spaghetti, linguine or pici, which is a short, thick worm-like pasta, and there's also debate about what cheese to use – it's usually either Parmesan or pecorino romano.",
       "details": [
-        { "Cuisine": "Italian" },
-        { "Recipe Type": "Pasta" },
-        { "Difficulty": "Easy" },
-        { "Preparation Time": "5 mins" },
-        { "Cooking Time": "10 mins" },
-        { "Serves": "2" }
+        {
+          "Cuisine": "Italian"
+        },
+        {
+          "Recipe Type": "Pasta"
+        },
+        {
+          "Difficulty": "Easy"
+        },
+        {
+          "Preparation Time": "5 mins"
+        },
+        {
+          "Cooking Time": "10 mins"
+        },
+        {
+          "Serves": "2"
+        }
       ],
       "ingredients": [
         "200 g spaghetti or linguine",
@@ -241,12 +325,24 @@
       "discount": 0,
       "introduction": "This classic French dish might look rustic, but plenty of work and skill goes into making it just right. Consisting of beef slowly braised in red wine, plus beef stock, carrots, onions and sometimes mushrooms, this super-rich dish is packed with layers of flavour. It's also become one of the most famous recipes from Julia Child's groundbreaking cookbook The French Chef.",
       "details": [
-        { "Cuisine": "French" },
-        { "Recipe Type": "Main" },
-        { "Difficulty": "Medium" },
-        { "Preparation Time": "200 mins" },
-        { "Cooking Time": "135 mins" },
-        { "Serves": "4" }
+        {
+          "Cuisine": "French"
+        },
+        {
+          "Recipe Type": "Main"
+        },
+        {
+          "Difficulty": "Medium"
+        },
+        {
+          "Preparation Time": "200 mins"
+        },
+        {
+          "Cooking Time": "135 mins"
+        },
+        {
+          "Serves": "4"
+        }
       ],
       "ingredients": [
         "800 g Beef brisket, cut into large cubes",
@@ -283,12 +379,24 @@
       "discount": 0,
       "introduction": "This warm, comforting noodle dish has taken the world by storm and rightly so. Its apparent simplicity hides complex flavours that are at once unctuous and refreshing. Born in northern Vietnam in the late 19th century, pho’s development was influenced by Chinese and French cooking, mirroring the history of the country. Today, it is a uniquely Vietnamese offering that you won’t have to go far to find, wherever you are in the world.",
       "details": [
-        { "Cuisine": "Vietnamese" },
-        { "Recipe Type": "Slow cooker" },
-        { "Difficulty": "Hard" },
-        { "Preparation Time": "15 mins" },
-        { "Cooking Time": "300 mins" },
-        { "Serves": "6" }
+        {
+          "Cuisine": "Vietnamese"
+        },
+        {
+          "Recipe Type": "Slow cooker"
+        },
+        {
+          "Difficulty": "Hard"
+        },
+        {
+          "Preparation Time": "15 mins"
+        },
+        {
+          "Cooking Time": "300 mins"
+        },
+        {
+          "Serves": "6"
+        }
       ],
       "ingredients": [
         "1 kg short ribs",
@@ -331,12 +439,24 @@
       "discount": 10,
       "introduction": "You might think that there couldn't be anything easier than deep-frying a piece of chicken – but you'd be wrong to assume it's as simple as that. Making the perfect batter, adding just the right amount of seasoning and choosing the best way to fry takes practise. A dish deeply rooted in the American South, a perfect basket of fried chicken is one for the bucket list.",
       "details": [
-        { "Cuisine": "Italian" },
-        { "Recipe Type": "Pasta" },
-        { "Difficulty": "Medium" },
-        { "Preparation Time": "5 mins" },
-        { "Cooking Time": "10 mins" },
-        { "Serves": "2" }
+        {
+          "Cuisine": "Italian"
+        },
+        {
+          "Recipe Type": "Pasta"
+        },
+        {
+          "Difficulty": "Medium"
+        },
+        {
+          "Preparation Time": "5 mins"
+        },
+        {
+          "Cooking Time": "10 mins"
+        },
+        {
+          "Serves": "2"
+        }
       ],
       "ingredients": [
         "200 g spaghetti or linguine",
@@ -361,12 +481,24 @@
       "discount": 0,
       "introduction": "It might not be a looker, but this Québec dish is certainly delicious, and is now not only popular across Canada and the northeast of the US but further afield too. Comprising fluffy-on-the-inside, crunchy-on-the-outside French fries, and thick, rich and meaty gravy, poutine is elevated to a culinary event by the addition of cheese curds. These small, solidified white cheese bites retain some of their shape under the heat of the gravy.",
       "details": [
-        { "Cuisine": "Canadian" },
-        { "Recipe Type": "Potato" },
-        { "Difficulty": "Easy" },
-        { "Preparation Time": "10 mins" },
-        { "Cooking Time": "25 mins" },
-        { "Serves": "2" }
+        {
+          "Cuisine": "Canadian"
+        },
+        {
+          "Recipe Type": "Potato"
+        },
+        {
+          "Difficulty": "Easy"
+        },
+        {
+          "Preparation Time": "10 mins"
+        },
+        {
+          "Cooking Time": "25 mins"
+        },
+        {
+          "Serves": "2"
+        }
       ],
       "ingredients": [
         "1 vegetable oil spray",
@@ -391,12 +523,24 @@
       "discount": 0,
       "introduction": "A celebration of spices and rice, biryani's origins lie with the Muslims of the Indian subcontinent. Today, endless varieties of biryani exist, depending on the region where it's cooked and the cook who makes it, but the basics – rice and an assortment of spices – remain untouchable. You can make yours with meat or skip it for a vegan or vegetarian treat. ",
       "details": [
-        { "Cuisine": "Indian" },
-        { "Recipe Type": "Rice" },
-        { "Difficulty": "Easy" },
-        { "Preparation Time": "10 mins" },
-        { "Cooking Time": "35 mins" },
-        { "Serves": "4" }
+        {
+          "Cuisine": "Indian"
+        },
+        {
+          "Recipe Type": "Rice"
+        },
+        {
+          "Difficulty": "Easy"
+        },
+        {
+          "Preparation Time": "10 mins"
+        },
+        {
+          "Cooking Time": "35 mins"
+        },
+        {
+          "Serves": "4"
+        }
       ],
       "ingredients": [
         "400 g basmati rice",
@@ -438,12 +582,24 @@
       "discount": 0,
       "introduction": "These soft corn tortillas full of delicious beef, pork and chicken have mysterious origins that are often traced back to Mexico's 18th-century silver mines. Contrary to American tacos, the Mexican version doesn't include garnishes like lettuce, tomato, cheese or even sour cream. In fact, Mexican tacos are usually topped with coriander, finely diced white onion and a type of salsa or, sometimes, guacamole.",
       "details": [
-        { "Cuisine": "Mexican" },
-        { "Recipe Type": "Tacos" },
-        { "Difficulty": "Easy" },
-        { "Preparation Time": "30 mins" },
-        { "Cooking Time": "15 mins" },
-        { "Serves": "4" }
+        {
+          "Cuisine": "Mexican"
+        },
+        {
+          "Recipe Type": "Tacos"
+        },
+        {
+          "Difficulty": "Easy"
+        },
+        {
+          "Preparation Time": "30 mins"
+        },
+        {
+          "Cooking Time": "15 mins"
+        },
+        {
+          "Serves": "4"
+        }
       ],
       "ingredients": [
         "1 banana shallot, finely sliced",
@@ -475,12 +631,24 @@
       "discount": 0,
       "introduction": "This spicy, crunchy salad is the taste of Southeast Asia on a plate, made with shredded unripe green papaya and other local fruit and vegetables tossed in a delicious sweet and sour dressing of palm sugar, chilli peppers and lime juice. Originating from Laos, it’s also eaten throughout Vietnam, Cambodia and Thailand. Making a traditional som tam means lots of shredding and pounding with a pestle and mortar, but modern, less messy and time-consuming takes on the traditional dish abound. ",
       "details": [
-        { "Cuisine": "Thai" },
-        { "Recipe Type": "Main" },
-        { "Difficulty": "Medium" },
-        { "Preparation Time": "20 mins" },
-        { "Cooking Time": "10 mins" },
-        { "Serves": "4" }
+        {
+          "Cuisine": "Thai"
+        },
+        {
+          "Recipe Type": "Main"
+        },
+        {
+          "Difficulty": "Medium"
+        },
+        {
+          "Preparation Time": "20 mins"
+        },
+        {
+          "Cooking Time": "10 mins"
+        },
+        {
+          "Serves": "4"
+        }
       ],
       "ingredients": [
         "2 large courgettes, trimmed",
@@ -510,12 +678,24 @@
       "discount": 90,
       "introduction": "This round, deep-fried patty of ground chickpeas, herbs, spices and onions makes for a tasty veggie treat. Falafel has a thousand-year history, probably hailing from Egypt, where it was eaten as a substitute for meat by Coptic Christians during Lent and was made with fava beans. The dish later migrated towards the Levant, where it took on its current chickpea form.",
       "details": [
-        { "Cuisine": "Middle Eastern" },
-        { "Recipe Type": "Falafel pitta" },
-        { "Difficulty": "Medium" },
-        { "Preparation Time": "15 mins" },
-        { "Cooking Time": "20 mins" },
-        { "Serves": "6" }
+        {
+          "Cuisine": "Middle Eastern"
+        },
+        {
+          "Recipe Type": "Falafel pitta"
+        },
+        {
+          "Difficulty": "Medium"
+        },
+        {
+          "Preparation Time": "15 mins"
+        },
+        {
+          "Cooking Time": "20 mins"
+        },
+        {
+          "Serves": "6"
+        }
       ],
       "ingredients": [
         "4 garlic cloves, peeled",
